@@ -1,0 +1,16 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Context",
+  "sourceName": "contracts/ERC20.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    }
+  ],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea264697066735822122047ca8ff1f9eb0e052eb05344602e7c68110b3b93639d6fdff7f0a509f10c09dd64736f6c63430008110033",
+  "deployedBytecode": "0x6080604052600080fdfea264697066735822122047ca8ff1f9eb0e052eb05344602e7c68110b3b93639d6fdff7f0a509f10c09dd64736f6c63430008110033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
